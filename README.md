@@ -1,4 +1,9 @@
-# Moon Rider
+# Moon Rider Fork
+
+This repository is a fork of https://github.com/supermedium/moonrider.  Most
+changes have been submitted as PRs.
+
+supermedium's README follows, with a few changes related to my repo changes:
 
 ![moonrider](https://user-images.githubusercontent.com/674727/54646629-e91dc600-4a5c-11e9-8a6e-91e77f28523d.jpg)
 
